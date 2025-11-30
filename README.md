@@ -67,7 +67,7 @@ pip install requests
 
   - Clone the repositroy
   ```bash
-  git clone https://github.com/DevManoj96/Weather-App.git
+  git clone https://github.com/VoinFeix/Weather-App.git
   cd Weather-App
   ```
   
